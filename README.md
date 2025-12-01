@@ -18,4 +18,4 @@ Espero que o senhor ou senhora que está lendo este README, goste do que irá ve
 
 | Aplicação | Figma | Acesse em | Repositório
 | ------------- | ------------- | ------------- | ------------- |
-| Blog  | <a href="https://www.figma.com/design/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---CodeLab?node-id=0-1&p=f&t=MWfREpAyLPe71Q5Z-0" target="_blank">Figma Blog</a> | Em Breve | Em Breve |
+| Blog  | <a href="https://www.figma.com/design/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---CodeLab?node-id=0-1&p=f&t=MWfREpAyLPe71Q5Z-0" target="_blank">Figma Blog</a> | <a href="https://alexandresican.github.io/front-end-study/">Em Breve</a> | <a href="https://alexandresican.github.io/front-end-study/">Em Breve</a> |
