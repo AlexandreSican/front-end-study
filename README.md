@@ -19,3 +19,4 @@ Espero que o senhor ou senhora que está lendo este README, goste do que irá ve
 | Aplicação | Figma | Repositório | Acesso
 | ------------- | ------------- | ------------- | ------------- |
 | Blog  | <a href="https://www.figma.com/design/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---CodeLab?node-id=0-1&p=f&t=MWfREpAyLPe71Q5Z-0" target="_blank">Figma Blog</a> | <a href="https://github.com/AlexandreSican/blog-jornada1">Jornada 1 Repo</a> | <a href="https://alexandresican.github.io/blog-jornada1/">Acesse o Site</a> |
+| Jordan Shoes | Em Breve | Em Breve | Em Breve |
